@@ -150,7 +150,9 @@ cd people-analytics-ibm
 pip install pandas numpy matplotlib seaborn scikit-learn xgboost
 jupyter notebook people_analytics.ipynb
 ```
+# People Analytics — IBM HR Analytics Dataset
 
+**Visualizar projeto:** [Clique aqui para acessar a página do projeto](https://alessandrasgoncalves23-cpu.github.io/People-Analytics/index.html)
 ---
 
 ## Autora
